@@ -76,25 +76,28 @@ To get started with the project, follow these steps:
    git clone https://github.com/SidRai-247/Evergreen-Talks.git
    cd Evergreen-Talks
 
-2. **Install backend dependencies:**:
+2. **Navigate to the backend directory**:
+   ```bash
+   cd backend
+
+3. **Install backend dependencies:**:
    ```bash
    npm install
 
-3. **Start the backend server:**:
+4. **Start the backend server:**:
    ```bash
    nodemon server.js
 
-4. **Navigate to the frontend directory:**:
+5. **Navigate to the frontend directory:**:
    ```bash
-   cd frontend
+   cd ../frontend
 
-5. **Install Frontend dependencies:**:
+6. **Install Frontend dependencies:**:
    ```bash
    npm install
 
-6. **Run the frontend application:**:
+7. **Run the frontend application:**:
    ```bash
    npm run dev
-
 
 
