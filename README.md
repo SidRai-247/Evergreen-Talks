@@ -27,10 +27,10 @@ EvergreenTalks is a real-time chat application built using the **MERN stack** (M
 ## 📸 Screenshots
 
 ### Chat Room
-![Chat Room](Frontend/public/chatroom.png)
+![Chat Room](frontend/public/chatroom.png)
 
 ### Authentication Page
-![Authentication Page](Frontend/public/authentication.png)
+![Authentication Page](frontend/public/authentication.png)
 
 ---
 
