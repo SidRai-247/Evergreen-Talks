@@ -20,7 +20,6 @@ EvergreenTalks is a real-time chat application built using the **MERN stack** (M
 
 ### 🔍 Search Functionality
 - **Search Users**: Users can search for other users by username to start private chats or invite them to group chats.
-- **Search Messages**: Search within chat rooms for specific messages or keywords to quickly locate past conversations.
 
 ---
 
@@ -36,8 +35,8 @@ EvergreenTalks is a real-time chat application built using the **MERN stack** (M
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Socket.io-client
-- **Backend**: Node.js, Express.js, Socket.io
+- **Frontend**: React.js, Zustand for state management, DaisyUI for UI components, Tailwind CSS for styling
+- **Backend**: Node.js, Express.js, Socket.io for real-time messaging
 - **Database**: MongoDB (Atlas)
 - **Authentication**: JWT (JSON Web Tokens)
 - **Real-Time Messaging**: Socket.io
@@ -100,4 +99,25 @@ To get started with the project, follow these steps:
    ```bash
    npm run dev
 
+## 🚧 Future Improvements
+
+While the project is functional, there are several areas that could be enhanced in the future:
+
+- **Mobile App Version**: Develop a mobile version of the application for iOS and Android.
+- **Advanced Data Visualizations**: Add more dynamic charts like bar charts and heatmaps to provide deeper insights into expenses and to-dos.
+- **User Profiles**: Allow users to have more customizable profiles and settings for a personalized experience.
+- **Real-time Notifications**: Add real-time notifications for upcoming bills, tasks, or spending alerts.
+- **Improved Security**: Integrate multi-factor authentication (MFA) for enhanced security during login.
+- **Chart Export**: Integrate more options like daily, weekly, and monthly chart export options.
+- **Chatroom Features**: Add support for file sharing, media messages, and emojis in the chat rooms.
+
+---
+
+## 🚀 Deployment
+
+The application has been deployed using **Render.com**. You can access the live version of the project via the link below once it is available:
+
+[**EvergreenTalks - Live App**](https://evergreen-talks.onrender.com/)
+
+---
 
